@@ -1,0 +1,22 @@
+h3{
+    color: gold;
+    text-decoration: underline;
+
+     
+}
+.blog{
+    margin: 20px;
+    border: 10px solid salmon;
+    box-shadow: 10px 20px 15px red;
+}
+.cum{
+    border: 10px solid cornflowerblue;
+    display: inline-flex;
+}
+.head{
+    height: 300px ;
+    background-image: url("/download.jpeg");
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    background-size: 1000px;
+}
